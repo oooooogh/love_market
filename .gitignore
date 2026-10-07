@@ -21,3 +21,7 @@ pnpm-debug.log*
 *.njsproj
 *.sln
 *.sw?
+
+# 个人求职材料（不纳入版本控制）
+RESUME_PROJECT.md
+INTERVIEW_PROJECT_QA.md
